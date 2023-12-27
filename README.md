@@ -1,4 +1,4 @@
-# Practico1B 2022
+# Repaso1-Array y métodos
 
 1) Escribir un programa que ingrese 5 números. Al finalizar el ingreso de datos, se deberá desplegar por pantalla el mayor y el menor número ingresado.
 
